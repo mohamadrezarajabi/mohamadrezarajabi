@@ -14,7 +14,7 @@ A passionate web developer from Iran 🇮🇷
 - 🌱 Learning React · Django · PostgreSQL
 - 💼 Working toward freelance projects
 - 🔧 Built: crypto analysis system, hotel management app, Anki Chrome extension
-- 📫 rezaforgehub@gmail.com
+- 📫 mohamadrezarajadi87@gmail.com
 
 ---
 
