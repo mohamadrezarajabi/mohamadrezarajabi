@@ -1,10 +1,9 @@
 # Hi, I'm Mohamad Reza! 👋
 
-A passionate web developer from Iran 🇮🇷
+A passionate web developer from Iran 🇮🇷 — building things with code.
 
-[![Portfolio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezaforgehub@gmail.com)
-
-![3D Contrib](profile-3d-contrib/profile-night-rainbow.svg)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadrezarajabi87@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamadrezarajabi)
 
 ---
 
@@ -13,20 +12,20 @@ A passionate web developer from Iran 🇮🇷
 - 🎯 Focused on **Fullstack Web Development**
 - 🌱 Learning React · Django · PostgreSQL
 - 💼 Working toward freelance projects
-- 🔧 Built: crypto analysis system, hotel management app, Anki Chrome extension
-- 📫 mohamadrezarajadi87@gmail.com
+- 🔧 Built: crypto analysis · hotel management · Anki Chrome extension
+- 📫 mohamadrezarajabi87@gmail.com
 
 ---
 
 ## 💻 Skills & Tech Stack
 
 ### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python_Advanced-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript_Basic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3_/_Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -36,9 +35,11 @@ A passionate web developer from Iran 🇮🇷
 ![Trading](https://img.shields.io/badge/Trading_%26_TA-0F6E56?style=for-the-badge&logo=bitcoin&logoColor=9FE1CB)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-534AB7?style=for-the-badge&logo=openai&logoColor=EEEDFE)
 
+---
+
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mohamadrezarajabi&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=mohamadrezarajabi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamadrezarajabi&theme=tokyonight&hide_border=true)
 
