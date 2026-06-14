@@ -38,9 +38,9 @@ A passionate web developer from Iran 🇮🇷
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rezaforgehub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=mohamadrezarajabi&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rezaforgehub&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamadrezarajabi&theme=tokyonight&hide_border=true)
 
 ---
 
